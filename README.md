@@ -25,4 +25,5 @@ print("hello worldf")
 if "_main_" ==_name_:
 print_hello_world()
 
-[Пароли.txt](https://github.com/user-attachments/files/19563982/default.txt)
+
+
